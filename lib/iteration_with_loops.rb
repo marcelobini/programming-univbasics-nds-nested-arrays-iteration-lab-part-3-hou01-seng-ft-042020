@@ -3,7 +3,5 @@
   # Combine all Strings present in the AoA into a single value and return it
 
   def join_nested_strings(src)
-    new_array = []
-    new_array = array.select do |elem|
-  elem = "fox"
+  
 end
