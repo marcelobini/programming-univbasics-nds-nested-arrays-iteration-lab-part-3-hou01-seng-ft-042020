@@ -6,7 +6,7 @@ def join_nested_strings(src)
     [-1, "brown", "fox", 30],
     ["studied", 101, 233, "Ruby"]
 
-  new_array = []
+  new_array =[]
 mixed_data_1.each do |items|
   items.each do |item|
     if item.is_a?(String)
