@@ -15,5 +15,5 @@ mixed_data_1.each do |items|
   end
 end
 
-[new_array.join(" ")]
+new_array.join(" ")
 end
