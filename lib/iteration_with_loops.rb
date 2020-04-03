@@ -3,15 +3,11 @@
   # Combine all Strings present in the AoA into a single value and return it
 
   def join_nested_strings(src)
-    mixed_data_1 = [
-      ["The", 4, "quick"],
-      [-1, "brown", "fox", 30],
-      ["studied", 101, 233, "Ruby"]
-    words = []
+    new_array = []
 mixed_data_1.each do |items|
   items.each do |item|
     if item.is_a?(String)
-      words << item
+      new_array << item
     end
   end
 end
