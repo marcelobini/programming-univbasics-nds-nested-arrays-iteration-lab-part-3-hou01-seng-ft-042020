@@ -6,6 +6,6 @@ def join_nested_strings(src)
     [-1, "brown", "fox", 30],
     ["studied", 101, 233, "Ruby"]
   ]
-  mixed_data_1 [0]
+  mixed_data_1=[0]
 end
 mixed data
