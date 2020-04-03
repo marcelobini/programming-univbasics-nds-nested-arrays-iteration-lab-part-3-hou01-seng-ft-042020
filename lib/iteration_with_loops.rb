@@ -7,5 +7,4 @@ def join_nested_strings(src)
       if item.class == String?(String)
         words << item
       end
-    end
-  end
+  
