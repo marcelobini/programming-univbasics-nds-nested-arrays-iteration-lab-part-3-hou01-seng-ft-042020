@@ -8,5 +8,3 @@ def join_nested_strings(src)
   ]
   mixed_data_1.join(" ")
 end
-mixed data_1
-end
