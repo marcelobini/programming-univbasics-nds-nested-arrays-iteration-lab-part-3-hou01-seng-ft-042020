@@ -4,6 +4,6 @@
 
   def join_nested_strings(src)
     new_array = []
-    result = array.select do |elem|
+    new_array = array.select do |elem|
   elem = "fox"
 end
