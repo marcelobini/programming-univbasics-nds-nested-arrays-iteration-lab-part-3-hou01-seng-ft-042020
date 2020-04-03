@@ -11,4 +11,3 @@ def join_nested_strings(src)
   end
 
   [words.join(" ")]
-end
