@@ -13,3 +13,4 @@ mixed_data_1.each do |items|
       new_array << item
     end
   end
+end
