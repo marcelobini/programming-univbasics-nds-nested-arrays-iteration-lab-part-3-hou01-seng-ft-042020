@@ -4,13 +4,6 @@
 
   def join_nested_strings(src)
     new_array = []
-mixed_data_1.each do |items|
-  items.each do |item|
-    if item.is_a?(String)
-      new_array << item
-    end
-  end
+    result = array.select do |elem|
+  elem = "fox"
 end
-
-[words.join(" ")]
-  end
