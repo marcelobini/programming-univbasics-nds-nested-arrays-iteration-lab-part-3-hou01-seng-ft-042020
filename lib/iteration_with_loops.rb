@@ -3,5 +3,5 @@
   # Combine all Strings present in the AoA into a single value and return it
 
   def join_nested_strings(src)
-  
+  mixed_data_1
 end
