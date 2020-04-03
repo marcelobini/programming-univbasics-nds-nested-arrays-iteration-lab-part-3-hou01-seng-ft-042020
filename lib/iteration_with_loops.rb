@@ -18,15 +18,15 @@ mixed_data_1.each do |items|
     ["The", "falcon", "cannot", "hear", "the", "falconer;"],
     ["Things", "fall", "apart;", "the", "centre", "cannot", "hold"]
   ]
-  new_array =[]
+  new_array2 =[]
   mixed_data_2.each do |items|
     items.each do |item|
       if item.is_a?(String)
-        new_array << item
+        new_array2 << item
       end
     end
 
 end
 
-new_array.join(" ")
+new_array2.join(" ")
 end
