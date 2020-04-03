@@ -25,3 +25,4 @@ mixed_data_1.each do |items|
         new_array2 << item
       end
     end
+end
